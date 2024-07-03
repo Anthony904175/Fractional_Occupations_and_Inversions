@@ -1,1 +1,4 @@
-# Fractional_Occupations_and_Inversions
+# Fractional Occupations and Inversions
+## To Do
+### High Priority 
+- [] Calculate chemical potential using atomic units
